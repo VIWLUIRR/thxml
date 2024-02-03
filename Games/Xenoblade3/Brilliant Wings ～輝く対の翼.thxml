@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<thxml>
+	<album samplerate="44100" bits="16" channels="2" artist="平松建治">ゼノブレイド オリジナル・サウンドトラック トリニティBOX</album>
+	<albumartist>平松建治</albumartist>
+	<path>Brilliant Wings ～輝く対の翼.wav</path>
+	<bgmlist>
+		<bgm pos="0,2756250,37771880">Brilliant Wings ～輝く対の翼</bgm>
+		<bgm pos="40528130,0,2700000">Brilliant Wings ～輝く対の翼</bgm>
+	</bgmlist>
+</thxml>

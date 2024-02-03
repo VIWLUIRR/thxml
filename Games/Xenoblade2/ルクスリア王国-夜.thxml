@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<thxml>
+	<album samplerate="44100" bits="16" channels="2" artist="ACE（工藤ともり、CHiCO）">ゼノブレイド オリジナル・サウンドトラック トリニティBOX</album>
+	<albumartist>ACE（工藤ともり、CHiCO）</albumartist>
+	<path>ルクスリア王国-夜.wav</path>
+	<bgmlist>
+		<bgm pos="0,2170000,25090000">ルクスリア王国-夜</bgm>
+		<bgm pos="27260000,0,4668400">ルクスリア王国-夜</bgm>
+	</bgmlist>
+</thxml>

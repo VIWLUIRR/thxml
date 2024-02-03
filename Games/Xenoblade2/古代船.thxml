@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<thxml>
+	<album samplerate="44100" bits="16" channels="2" artist="清田愛未">ゼノブレイド オリジナル・サウンドトラック トリニティBOX</album>
+	<albumartist>清田愛未</albumartist>
+	<path>古代船.wav</path>
+	<bgmlist>
+		<bgm pos="0,3400000,24658000">古代船</bgm>
+		<bgm pos="28058000,0,2998800">古代船</bgm>
+	</bgmlist>
+</thxml>
