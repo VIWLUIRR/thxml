@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<thxml>
+	<album samplerate="44100" bits="16" channels="2" artist="平松建治">ゼノブレイド オリジナル・サウンドトラック トリニティBOX</album>
+	<albumartist>平松建治</albumartist>
+	<path>最強サクラの歌.wav</path>
+	<bgmlist>
+		<bgm pos="0,2316392,16053228">最強サクラの歌</bgm>
+		<bgm pos="18369620,0,352800">最強サクラの歌</bgm>
+	</bgmlist>
+</thxml>

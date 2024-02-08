@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<thxml>
+	<album samplerate="44100" bits="16" channels="2" artist="ACE（工藤ともり、CHiCO）">ゼノブレイド オリジナル・サウンドトラック トリニティBOX</album>
+	<albumartist>ACE（工藤ともり、CHiCO）</albumartist>
+	<path>雷轟! アルティメット.wav</path>
+	<bgmlist>
+		<bgm pos="0,580000,30835714">雷轟! アルティメット</bgm>
+		<bgm pos="31415714,0,4828606">雷轟! アルティメット</bgm>
+	</bgmlist>
+</thxml>

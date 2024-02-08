@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<thxml>
+	<album samplerate="44100" bits="16" channels="2" artist="ACE（工藤ともり、CHiCO）">ゼノブレイド オリジナル・サウンドトラック トリニティBOX</album>
+	<albumartist>ACE（工藤ともり、CHiCO）</albumartist>
+	<path>ガウル平原 (Definitive Edition ver.).wav</path>
+	<bgmlist>
+		<bgm pos="0,3149992,40102736">ガウル平原 (Definitive Edition ver.)</bgm>
+		<bgm pos="43252728,0,2964072">ガウル平原 (Definitive Edition ver.)</bgm>
+	</bgmlist>
+</thxml>

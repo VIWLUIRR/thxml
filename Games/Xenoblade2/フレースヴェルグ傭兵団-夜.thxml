@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<thxml>
+	<album samplerate="44100" bits="16" channels="2" artist="平松建治">ゼノブレイド オリジナル・サウンドトラック トリニティBOX</album>
+	<albumartist>平松建治</albumartist>
+	<path>フレースヴェルグ傭兵団-夜.wav</path>
+	<bgmlist>
+		<bgm pos="0,95238,20014990">フレースヴェルグ傭兵団-夜</bgm>
+		<bgm pos="20110228,0,2468972">フレースヴェルグ傭兵団-夜</bgm>
+	</bgmlist>
+</thxml>

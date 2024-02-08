@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<thxml>
+	<album samplerate="44100" bits="16" channels="2" artist="平松建治">ゼノブレイド オリジナル・サウンドトラック トリニティBOX</album>
+	<albumartist>平松建治</albumartist>
+	<path>首都フォンス・マイム-夜.wav</path>
+	<bgmlist>
+		<bgm pos="0,2998800,23652300">首都フォンス・マイム-夜</bgm>
+		<bgm pos="26651100,0,3866100">首都フォンス・マイム-夜</bgm>
+	</bgmlist>
+</thxml>
